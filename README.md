@@ -11,3 +11,8 @@ A published essay.
 I worked on the publication as an editor and contributor, undertaking proofreading and editorial work while also contributing original prose and photography.
 
 ![The Gower (Móre Glass)](morglass.png)
+
+## Poetry: Another Country – Haiku Poetry from Wales
+Three of haiku poems published in *Another Country: Haiku Poetry from Wales*, an anthology bringing together work from poets across Wales exploring the traditional Japanese short-form through Welsh landscapes and sensibilities.
+
+The collection, published by Gomer Press and edited by Ken Jones, Nigel Jenkins and Lynne Rees, was the first national anthology dedicated to Welsh haiku poetry.
