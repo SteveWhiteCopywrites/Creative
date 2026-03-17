@@ -37,3 +37,7 @@ Three of haiku poems published in *Another Country: Haiku Poetry from Wales*, an
 ### Solitude of the Long Distance Runner
 
 ![Solitude of the Long Distance Runner](Solitude.png)
+
+### Stand-alone haiku
+
+![Stand-alone haiku](moon.png)
