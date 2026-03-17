@@ -32,9 +32,8 @@ Three of haiku poems published in *Another Country: Haiku Poetry from Wales*, an
 
 ### Ghosts of Birchey's Field
 
-haibun_panel_1.jpg
+Ghosts.png
 
 ### Solitude of the Long Distance Runner
 
-haibun_panel_1.jpg
-
+Solitude.png
