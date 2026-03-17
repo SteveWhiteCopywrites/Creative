@@ -2,7 +2,11 @@
 Literature, poetry, and independent projects.
 
 ## Essay: Footprints Through Sand and Stone
-A published essay.
+A creative nonfiction essay published in [Planet](https://www.planetmagazine.org.uk/), the Welsh internationalist magazine of arts, literature and national affairs.
+
+The essay charts a surf exploration journey to a reef break located on the South Gower section of the Wales Coast Path.
+
+
 
 ## Editorial, photography
 ## The Gower (Móre Glass)
