@@ -6,7 +6,7 @@ A creative nonfiction essay published in [Planet](https://www.planetmagazine.org
 
 ![Planet Magazine essay – opening spread](planet1.png)
 
-The essay charts a surf exploration journey to a reef break located on the South Gower section of the Wales Coast Path.
+The essay charts a surf exploration journey to a location on the south Gower section of the Wales Coast Path.
 
 ![Planet Magazine essay – opening spread](planet2.png)
 
