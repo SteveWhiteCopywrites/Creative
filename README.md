@@ -2,9 +2,13 @@
 Literature, poetry, and independent projects.
 
 ## Essay: Footprints Through Sand and Stone
-A creative nonfiction essay published in [Planet](https://www.planetmagazine.org.uk/), the Welsh internationalist magazine of arts, literature and national affairs.
+A creative nonfiction essay published in [Planet](https://www.planetmagazine.org.uk/), the Welsh internationalist magazine of arts, literature and national affairs. The essay charts a surf exploration journey to a reef break located on the South Gower section of the Wales Coast Path.
 
-The essay charts a surf exploration journey to a reef break located on the South Gower section of the Wales Coast Path.
+![Planet Magazine essay – opening spread](planet_essay_1.jpg)
+
+![Planet Magazine essay – continued](planet_essay_2.jpg)
+
+![Planet Magazine essay – closing section](planet_essay_3.jpg)
 
 
 
