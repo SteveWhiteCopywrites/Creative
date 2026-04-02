@@ -28,7 +28,7 @@ I worked on the publication as an editor and contributor of prose and photograph
 ## Poetry 
 
 ### *Another Country – Haiku Poetry from Wales*
-Three of haiku poems published in *Another Country: Haiku Poetry from Wales*, an anthology bringing together work from poets across Wales exploring the traditional Japanese short-form through Welsh landscapes and sensibilities. The collection, published by Gomer Press and edited by Ken Jones, Nigel Jenkins and Lynne Rees, was the first national anthology dedicated to Welsh haiku poetry.
+Haibun and haiku published in *Another Country: Haiku Poetry from Wales*. The anthology brings together work from poets across Wales exploring the traditional Japanese short-form through Welsh landscapes. The collection, published by Gomer Press and edited by Ken Jones, Nigel Jenkins and Lynne Rees, was the first national anthology dedicated to Welsh haiku poetry.
 
 <img src="images/anothercountry.png" width="600">
 
