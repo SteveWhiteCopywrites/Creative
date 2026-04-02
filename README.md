@@ -6,13 +6,15 @@ Literature, poetry, and independent projects.
 ### Essay: Footprints Through Sand and Stone
 A creative nonfiction essay published in *[Planet](https://www.planetmagazine.org.uk/)*, the Welsh internationalist magazine of arts, literature and national affairs. 
 
-![Planet Magazine essay – opening spread](planet1.png)
+<img src="images/planet1.png" width="600">
 
 The essay charts a surf exploration journey to a location on the south Gower section of the Wales Coast Path.
 
-![Planet Magazine essay – opening spread](planet2.png)
+<img src="images/planet2.png" width="600">
 
-![Planet Magazine essay – opening spread](planet3.png)
+---
+
+<img src="images/planet3.png" width="600">
 
 ## Editorial, photography
 
@@ -21,23 +23,23 @@ The essay charts a surf exploration journey to a location on the south Gower sec
 
 I worked on the publication as an editor and contributor of prose and photography.
 
-![The Gower (Móre Glass)](morglass.png)
+<img src="images/morglass.png" width="600">
 
 ## Poetry 
 
 ### *Another Country – Haiku Poetry from Wales*
 Three of haiku poems published in *Another Country: Haiku Poetry from Wales*, an anthology bringing together work from poets across Wales exploring the traditional Japanese short-form through Welsh landscapes and sensibilities. The collection, published by Gomer Press and edited by Ken Jones, Nigel Jenkins and Lynne Rees, was the first national anthology dedicated to Welsh haiku poetry.
 
-![Another Country – Haiku Poetry from Wales](anothercountry.png)
+<img src="images/anothercountry.png" width="600">
 
 ### Ghosts of Birchey's Field
 
-![Ghosts of Birchey’s Field](Ghosts.png)
+<img src="images/Ghosts.png" width="600">
 
 ### Solitude of the Long Distance Runner
 
-![Solitude of the Long Distance Runner](Solitude.png)
+<img src="images/Solitude.png" width="600">
 
 ### Stand-alone haiku
 
-![Stand-alone haiku](moon.png)
+<img src="images/moon.png" width="600">
